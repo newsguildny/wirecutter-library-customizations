@@ -1,0 +1,19 @@
+{
+  "name": "wirecutter-library-customization",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Customizations for Wirecutter Union Library instance",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newsguildny/wirecutter-library-customization.git"
+  },
+  "author": "The Wirecutter Union",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/nytimes/library-customization-example#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.0.0"
+  }
+}

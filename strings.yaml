@@ -1,0 +1,14 @@
+branding:
+  name: Wirecutter Union Documentation
+  prettyName: Wirecutter Union Documentation
+  org: Wirecutter Union
+  orgDomain: nytimesguild.org
+  favicon: /favicon-32x32.webp
+  icon: /wirecutter/library/assets/images/wirecutter-union.png
+
+landing:
+  quickLink: <a href="/wirecutter/library/get-started">Get Started.</a>
+
+error:
+  403:
+    message: "<p>The page you're trying to access is forbidden. Please try <a href=\"/wirecutter/library/login\">logging in</a> with another account, or contact your organization's administrators for assistance.</p>"
