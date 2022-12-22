@@ -51,7 +51,7 @@ jobs:
           APPROVED_DOMAINS: "(.*)"
           GOOGLE_APPLICATION_CREDENTIALS: ./server/.auth.json
           CUSTOMIZATION_GIT_REPO: https://github.com/newsguildny/nyt-tech-library-customizations
-          PATH_PREFIX: /tech/library/
+          PATH_PREFIX: /wirecutter/library/
           DRIVE_ID: ${{ secrets.DRIVE_ID }}
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
